@@ -3,9 +3,19 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 전 하나님을 믿지않으니 선도는 안받아유...
-- 전 신 안믿어유...
-- 박하민은 하나님 스탑
+import './style.css'
+import axios from 'axios'
+
+document.getElementById('button').addEventListener('click', () => {
+  axios.get('http://localhost:8000').then(({data}) => {
+    alert(data)
+})
+})
+
+axios.get('http://localhost:8000/title').then(({data}) => {
+  document.querySelector('title').innerText = data
+})
+
 
 <!---
 WariHue/WariHue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
