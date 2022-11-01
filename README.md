@@ -6,17 +6,6 @@
 import './style.css'
 import axios from 'axios'
 
-document.getElementById('button').addEventListener('click', () => {
-  axios.get('http://localhost:8000').then(({data}) => {
-    alert(data)
-})
-})
-
-axios.get('http://localhost:8000/title').then(({data}) => {
-  document.querySelector('title').innerText = data
-})
-
-
 <!---
 WariHue/WariHue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
