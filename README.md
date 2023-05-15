@@ -10,7 +10,7 @@ I'll make games!<br>
 Now, Enjoy!<br>
 이제, 즐기세요!
 
-# 기대하세요!
+# ⭐ 기대하세요! ⭐
 >  ###   <del>Up Space!</del>
 >> #### <del>망!</del>
 > ### <del>Commi!</del>
