@@ -14,6 +14,6 @@ Now, Enjoy!<br>
 >  ###   <del>Up Space!</del>
 >> #### <del>망!</del>
 > ### <del>Commi!</del>
-> > ####<del>강화 전용 봇ㅠㅠ</del>
+> > #### <del>강화 전용 봇ㅠㅠ</del>
 > ### DIY PIXEL!
 > > #### 개발 중!
