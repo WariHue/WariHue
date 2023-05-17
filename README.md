@@ -1,19 +1,21 @@
-🔰Hello! I'm WariHue<br>
-안녕하세요! WariHue예요!
+<h1 align="center">WariHue</h1>
+<p align="center">어... 초보여서 죄송합니다 🔰🔰🔰</p>
 
-🎲Welcome to visit my Github!<br>
-제 깃허브에 오신 것을 환영해요!
+<h3 align="center">
+  ⭐ 기대하세요!... 진짜요? ⭐
+</h3>
+<p align="center">진짜 이것들을 사용하면... 💢💢</p>
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.warihue.upspace">Up Space!</a>
+  <span>|</span>
+  <a href="https://discord.com/api/oauth2/authorize?client_id=1040191255604375592&permissions=8&scope=bot"><del>Commi!(커미!)</del></a>
+  <span>|</span>
+  <a>DIY PIXEL! (개발 중 <del>이라 쓰고 그림 그리기라 읽는다</del></a>
+</p>
 
-🔑I'll make games!<br>
-저는 게임을 만들거예요!
-
-😻Now, Enjoy!<br>
-이제, 즐기세요!
-
-# ⭐ 기대하세요! ⭐
->  ###   <del>Up Space!</del>
->> #### <del>망!</del>
-> ### <del>Commi!</del>
-> > #### <del>강화 전용 봇ㅠㅠ</del>
-> ### DIY PIXEL!
-> > #### 개발 중!
+<h3 align="center">
+  그... 돈내놔!
+</h3>
+<p align="center">
+  <a href="https://github.com/sponsors/pikokr">토스로 내놓기</a>
+</p>
