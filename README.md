@@ -10,7 +10,7 @@
   <span>|</span>
   <a href="https://discord.com/api/oauth2/authorize?client_id=1040191255604375592&permissions=8&scope=bot"><del>Commi!(커미!)</del></a>
   <span>|</span>
-  <a>DIY PIXEL! (개발 중 <del>이라 쓰고 그림 그리기라 읽는다</del></a>
+  <a>DIY PIXEL! (개발 중 <del>이라 쓰고 그림 그리기라 읽는다</del>)</a>
 </p>
 
 <h3 align="center">
