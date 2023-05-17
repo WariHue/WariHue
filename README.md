@@ -17,5 +17,5 @@
   그... 돈내놔!
 </h3>
 <p align="center">
-  <a href="https://github.com/sponsors/pikokr">토스로 내놓기</a>
+  <a href="https://toss.me/warihue">토스로 내놓기</a>
 </p>
