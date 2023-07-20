@@ -7,7 +7,7 @@ WariHue := hello{
   name: "WariHue",
   age: 14,
   ICan: {
-    Language.C#,
+    Language.CSharp,
     Language.Java,
     Language.Go,
     Language.Dart,
