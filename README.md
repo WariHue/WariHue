@@ -15,4 +15,5 @@ WariHue := hello{
     Language.JavaScript,
     Language.TypeScript,
   }
+}
 ```
